@@ -1,0 +1,27 @@
+.wholepage{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: grey;
+}
+.header {
+    background-color: orange;
+    text-align: center;
+    color: aliceblue;
+}
+.spacex{
+    margin-left: 70px;
+}
+.tesla{
+    margin-left: 70px;
+}
+#thecar{
+    text-align: left;
+    margin-right: 20px;
+}
+#therocket{
+    margin-left: 20px;
+    text-align: right;
+}
+.headimages{
+    margin-left: 85px;
+}
